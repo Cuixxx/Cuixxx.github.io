@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Can Cui / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Can Cui"
+description              : &description "a research assistant from Westlake University"
+url                      : https://cuixxx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Cuixxx/Cuixxx.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -27,7 +27,7 @@ author:
   bio              : "I like AGI"
   location         : "Hangzhou"
   employer         : "Red Brick University"
-  uri              : https://cuixxx.github.io
+  uri              : #
   email            : "cuican@westlake.edu.cn" 
 
   # Academic websites
