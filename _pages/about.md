@@ -30,4 +30,24 @@ You can find my CV here: [CuiCan's Curriculum Vitae](../assets/Curriculum_Vitae.
 
 <h2 id='publications'>Publications</h2>
 
-这里是第二部分的内容。
+<img src="https://img.shields.io/badge/ACM MM-2024-blue?style=flat-square">  <u>Can Cui</u>, Siteng Huang, Wenxuan Song, Pengxiang Ding, Min Zhang, Donglin Wang, &quot;**ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification**&quot;. In *ACM International Conference on Multimedia  2024*.
+
+<img src="https://img.shields.io/badge/IROS-2024-blue?style=flat-square"> Wenxuan Song, Han Zhao, Pengxiang Ding, <u>Can Cui</u>, Shangke Lyu, Yaning Fan, Donglin Wang, &quot;**GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot**&quot;. In *IEEE/RSJ International Conference on Intelligent Robots and Systems 2024*. <!-- oral --> [[arXiv](https://arxiv.org/pdf/2403.13358)]
+
+<img src="https://img.shields.io/badge/SPL?style=flat-square">  <u>Can Cui</u>, Hong Huo, Tao Fang, &quot;**Deep Hashing With Multi-Central Ranking Loss for Multi-Label Image Retrieval**&quot;. In *IEEE Signal Processing Letters*.
+
+<h2 id='experience'>Experience</h2>
+
+* Research Intern - **2012 OS Kernel Lab, HuaWei (华为/2012 OS内核实验室)**
+  * Time: July 2022 - September 2022.
+
+<h2 id='services'>Services</h2>
+
+### Conference Reviewer
+
+* ACM International Conference on Multimedia [(ACM MM)](https://2024.acmmm.org/)
+
+### Journal Reviewer
+
+* IEEE Signal Processing Letters [(SPL)](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=97)
+
