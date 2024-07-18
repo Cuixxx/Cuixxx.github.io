@@ -13,3 +13,9 @@ Hello! I'm Can Cui (崔灿 in chinese). I recived my Master degree from [Shangha
 You can find my CV here: [CuiCan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:cuican@westlake.edu.cn) / [Github](https://github.com/Cuixxx) / [Wechat](../images/wechat.jpg)
+
+## <a name="news"></a>News
+这里是第一部分的内容。
+
+## <a name="publications"></a>Publications
+这里是第二部分的内容。
