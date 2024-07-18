@@ -14,7 +14,7 @@ You can find my CV here: [CuiCan's Curriculum Vitae](../assets/Curriculum_Vitae.
 
 [Email](mailto:cuican@westlake.edu.cn) / [Github](https://github.com/Cuixxx) / [Wechat](../images/wechat.jpg)
 
-## <a name= "news"></a>News
+## <a id= "news"></a>News
 **[July 16, 2024]** The paper "ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification" got accepted for ACM MM 2024.
 
 **[June 30, 2024]** The paper "GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot"  got accepted for IROS 2024 (Oral).
@@ -27,5 +27,5 @@ You can find my CV here: [CuiCan's Curriculum Vitae](../assets/Curriculum_Vitae.
 
 
 
-## <a name="publications"></a>Publications
+## <a id="publications"></a>Publications
 这里是第二部分的内容。
