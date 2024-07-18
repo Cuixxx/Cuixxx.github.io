@@ -14,8 +14,18 @@ You can find my CV here: [CuiCan's Curriculum Vitae](../assets/Curriculum_Vitae.
 
 [Email](mailto:cuican@westlake.edu.cn) / [Github](https://github.com/Cuixxx) / [Wechat](../images/wechat.jpg)
 
-## <a name="news"></a>News
-这里是第一部分的内容。
+## <a name= "news"></a>News
+**[July 16, 2024]** The paper "ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification" got accepted for ACM MM 2024.
+
+**[June 30, 2024]** The paper "GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot"  got accepted for IROS 2024 (Oral).
+
+**[February 09, 2024]** During my graduate studies, one of the patents I led was granted.
+
+**[August 15, 2023]** I join the [MiLAB](https://milab.westlake.edu.cn/) as a research assistant at Westlake University!
+
+**[February 13, 2023]** The paper "Deep Hashing With Multi-Central Ranking Loss for Multi-Label Image Retrieval"  got accepted for IEEE Signal Processing Letters.
+
+
 
 ## <a name="publications"></a>Publications
 这里是第二部分的内容。
