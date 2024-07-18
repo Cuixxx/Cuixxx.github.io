@@ -34,7 +34,7 @@ You can find my CV here: [CuiCan's Curriculum Vitae](../assets/Curriculum_Vitae.
 
 <img src="https://img.shields.io/badge/IROS-2024-blue?style=flat-square"> Wenxuan Song, Han Zhao, Pengxiang Ding, <u>Can Cui</u>, Shangke Lyu, Yaning Fan, Donglin Wang, &quot;**GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot**&quot;. In *IEEE/RSJ International Conference on Intelligent Robots and Systems 2024*. <!-- oral --> [[arXiv](https://arxiv.org/pdf/2403.13358)]
 
-<img src="https://img.shields.io/badge/SPL?style=flat-square">  <u>Can Cui</u>, Hong Huo, Tao Fang, &quot;**Deep Hashing With Multi-Central Ranking Loss for Multi-Label Image Retrieval**&quot;. In *IEEE Signal Processing Letters*.
+<img src="https://img.shields.io/badge/SPL-green?style=flat-square">  <u>Can Cui</u>, Hong Huo, Tao Fang, &quot;**Deep Hashing With Multi-Central Ranking Loss for Multi-Label Image Retrieval**&quot;. In *IEEE Signal Processing Letters*.
 
 <h2 id='experience'>Experience</h2>
 
