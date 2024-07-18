@@ -1,13 +1,19 @@
 # main links links
 main:
   - title: "News"
-    url: "/#news/"
+    url: \#news
     
   - title: "Publications"
-    url: "/#publications/" 
-        
+    url: \#publications
+
+  - title: "Experience"
+    url: \#experience
+
+  - title: "Services"
+    url: \#services
+
   - title: "Projects"
     url: /projects/
     
-  - title: "CV"
-    url: /cv/
+  - title: "CV (English)"
+    url: /files/CanCui_CV.pdf
