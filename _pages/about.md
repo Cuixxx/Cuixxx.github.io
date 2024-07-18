@@ -1,5 +1,5 @@
 ---
-permalink: /about
+permalink: /
 title: "Can Cui (崔灿)"
 author_profile: true
 redirect_from: 
