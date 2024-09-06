@@ -12,8 +12,8 @@ main:
   - title: "Services"
     url: \#services
 
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
     
   - title: "CV (English)"
     url: ../assets/Curriculum_Vitae.pdf
