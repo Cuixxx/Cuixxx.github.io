@@ -37,10 +37,8 @@ You can find my CV here: [CuiCan's Curriculum Vitae](../assets/Curriculum_Vitae.
 <img src="https://img.shields.io/badge/SPL-2023-green?style=flat-square">  **Can Cui**, Hong Huo, Tao Fang, &quot;**Deep Hashing With Multi-Central Ranking Loss for Multi-Label Image Retrieval**&quot;. In *IEEE Signal Processing Letters*.
 
 <h2 id='experience'>Experience</h2>
-
-* Research Intern - **2012 OS Kernel Lab, HuaWei (华为/2012 OS内核实验室)**
-  * Time: July 2022 - September 2022.
-
+* Research Assistant - **Machine Intelligence Lab ([MiLAB](https://milab.westlake.edu.cn/)), Westlake University**
+  * Time: August 2023 - Present.
 <h2 id='services'>Services</h2>
 
 ### Conference Reviewer
