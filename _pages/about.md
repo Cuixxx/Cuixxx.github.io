@@ -34,7 +34,7 @@ You can find my CV here: [CuiCan's Curriculum Vitae](../assets/Curriculum_Vitae.
 
 <img src="https://img.shields.io/badge/IROS-2024-blue?style=flat-square"> Wenxuan Song, Han Zhao, Pengxiang Ding, **Can Cui**, Shangke Lyu, Yaning Fan, Donglin Wang, &quot;**GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot**&quot;. In *IEEE/RSJ International Conference on Intelligent Robots and Systems 2024*. (Oral) [[arXiv](https://arxiv.org/pdf/2403.13358)]
 
-<img src="https://img.shields.io/badge/SPL-2023-green?style=flat-square">  **Can Cui**, Hong Huo, Tao Fang, &quot;**Deep Hashing With Multi-Central Ranking Loss for Multi-Label Image Retrieval**&quot;. In *IEEE Signal Processing Letters*. [[arXiv](https://drive.google.com/file/d/1GTJwfqyC0vtVkbe0SoOHWMNptvSbfnkw/view)]
+<img src="https://img.shields.io/badge/SPL-2023-green?style=flat-square">  **Can Cui**, Hong Huo, Tao Fang, &quot;**Deep Hashing With Multi-Central Ranking Loss for Multi-Label Image Retrieval**&quot;. In *IEEE Signal Processing Letters*. [[Link](https://drive.google.com/file/d/1GTJwfqyC0vtVkbe0SoOHWMNptvSbfnkw/view)]
 
 <h2 id='experience'>Experience</h2>
 * Research Assistant - **Machine Intelligence Lab ([MiLAB](https://milab.westlake.edu.cn/)), Westlake University**
