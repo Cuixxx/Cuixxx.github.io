@@ -18,7 +18,7 @@ You can find my CV here: [CuiCan's Curriculum Vitae](../assets/Curriculum_Vitae.
 
 **[Jan 28, 2025]** The paper "QUART-Online: Latency-Free Multimodal Large Language Model for Quadruped Robot Learning" got accepted for ICRA 2025.
 
-**[Jan 28, 2025]** The paper "Score and Distribution Matching Policy: Advanced Accelerated Visuomotor Policies via Matched Distillation" is pre-printed in Arxiv.
+**[Dec 12, 2024]** The paper "Score and Distribution Matching Policy: Advanced Accelerated Visuomotor Policies via Matched Distillation" is pre-printed in Arxiv.
 
 **[July 16, 2024]** The paper "ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification" got accepted for ACM MM 2024.
 
