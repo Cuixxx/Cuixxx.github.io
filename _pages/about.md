@@ -54,6 +54,6 @@ You can find my CV here: [CuiCan's Curriculum Vitae](../assets/Curriculum_Vitae.
 * ACM International Conference on Multimedia [(ACM MM)](https://2024.acmmm.org/)
 
 ### Journal Reviewer
-
+* IEEE Transactions on Multimedia [(TMM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
 * IEEE Signal Processing Letters [(SPL)](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=97)
 
