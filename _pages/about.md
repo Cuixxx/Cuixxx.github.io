@@ -34,7 +34,7 @@ You can find my CV here: [CuiCan's Curriculum Vitae](../assets/Curriculum_Vitae.
 
 <h2 id='publications'>Publications</h2>
 
-<img src="https://img.shields.io/badge/ICRA-2025-green?style=flat-square"> Xinyang Tong, Pengxiang Ding, Yiguo Fan, Donglin Wang, Wenjie Zhang, **Can Cui**, Mingyang Sun, Han Zhao, Hongyin Zhang, Yonghao Dang, Siteng Huang, Shangke Lyu,&quot;**QUART-Online: Latency-Free Multimodal Large Language Model for Quadruped Robot Learning**&quot;. In *International Conference on Robotics and Automation 2024*. [[Link](https://arxiv.org/pdf/2412.15576)]
+<img src="https://img.shields.io/badge/ICRA-2025-green?style=flat-square"> Xinyang Tong, Pengxiang Ding, Yiguo Fan, Donglin Wang, Wenjie Zhang, **Can Cui**, Mingyang Sun, Han Zhao, Hongyin Zhang, Yonghao Dang, Siteng Huang, Shangke Lyu,&quot;**QUART-Online: Latency-Free Multimodal Large Language Model for Quadruped Robot Learning**&quot;. In *International Conference on Robotics and Automation 2025*. [[Link](https://arxiv.org/pdf/2412.15576)]
 
 <img src="https://img.shields.io/badge/Arxiv-2024-red?style=flat-square"> Bofang Jia, Pengxiang Ding, **Can Cui**, Mingyang Sun, Pengfang Qian,  Siteng Huang, Zhaoxin Fan, Donglin Wang,&quot;**Score and Distribution Matching Policy: Advanced Accelerated Visuomotor Policies via Matched Distillation**&quot;. In *arXiv preprint arXiv:2412.09265  2024*. [[Link](https://arxiv.org/abs/2412.09265)]
 
