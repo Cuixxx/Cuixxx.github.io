@@ -46,7 +46,7 @@ You can find my CV here: [CuiCan's Curriculum Vitae](../assets/Curriculum_Vitae.
 
 <h2 id='experience'>Experience</h2>
 * Research Assistant - **Machine Intelligence Lab ([MiLAB](https://milab.westlake.edu.cn/)), Westlake University**
-  * Time: August 2023 - Present.
+  * Time: August 2023 - July 2025.
 <h2 id='services'>Services</h2>
 
 ### Conference Reviewer
